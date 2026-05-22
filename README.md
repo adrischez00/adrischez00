@@ -85,7 +85,7 @@ También se planteó con una estructura preparada para futuras ampliaciones rela
 
 # Formación
 
-- Máster en Ciberseguridad — ESCIB
+- Máster en Ciberseguridad - ESCIB
 - Desarrollo de Aplicaciones Web - DAW
 - Desarrollo de Aplicaciones Multiplataforma - DAM
 
