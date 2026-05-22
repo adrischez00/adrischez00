@@ -76,7 +76,7 @@ También se planteó con una estructura preparada para futuras ampliaciones rela
 
 # Experiencia
 
-- Grupo SIA
+- Grupo SIA - BBVA
 - Codisys
 - NTT Data
 - Atisa
