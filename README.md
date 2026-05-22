@@ -1,46 +1,94 @@
-## Adrián Sánchez Guerrero
+# Adrián Sánchez
 
-Desarrollador Full-Stack centrado en SaaS, automatización e IA aplicada al negocio real.
-Madrid · Disponible para remoto, híbrido y proyectos freelance.
+### Full-Stack Developer · SaaS · Automatización · IA
+
+Madrid · Remoto · Freelance
 
 ---
 
-### Qué hago
+Construyo herramientas reales para empresas: SaaS, automatizaciones, IA aplicada y plataformas internas.
 
-Construyo producto de principio a fin: base de datos, APIs, automatizaciones e interfaz. Trabajo cerca del negocio, normalmente con PYMEs que necesitan digitalizar procesos concretos y dejar de depender de hojas de cálculo o software heredado.
+Actualmente trabajo en:
+- SaaS de fichajes en producción con clientes reales
+- Automatizaciones empresariales con n8n + IA
+- Bots de voz y sistemas RAG
+- Plataformas para digitalización de procesos
 
-Actualmente desarrollo y mantengo un **SaaS de fichajes en producción** con clientes de pago, además de automatizaciones a medida con n8n e IA, y pruebas de bots de voz con RAG.
+---
 
-### Formación
+## Stack
 
-- Máster en Ciberseguridad — ESCIB / UNIE
+```txt
+Back-End        Python · FastAPI · PostgreSQL · Node.js
+Front-End       React · Next.js · TypeScript · Tailwind
+IA & Automation OpenAI · RAG · n8n · APIs · Webhooks
+Infra           Docker · Vercel · Cloud Run · CI/CD
+Seguridad       Hardening · Forense · Hacking ético
+```
+
+---
+
+# Proyectos Destacados
+
+## SaaS de Fichajes
+
+Sistema multiempresa de control horario con:
+- exportaciones avanzadas
+- cumplimiento laboral
+- panel administrativo
+- automatizaciones
+- arquitectura moderna
+
+**Stack:** Next.js · FastAPI · PostgreSQL
+
+---
+
+## Automatizaciones IA + n8n
+
+Automatización de procesos empresariales reales mediante:
+- IA
+- integraciones
+- APIs
+- webhooks
+- workflows personalizados
+
+**Stack:** n8n · OpenAI · APIs
+
+---
+
+## Plataforma ISO 9001
+
+Software para auditorías y gestión documental orientado a consultoría ISO real.
+
+**Stack:** React · FastAPI · PostgreSQL
+
+---
+
+## Tienda C.F.S. Femenino San Fernando
+
+E-commerce real con Stripe, responsive premium y mantenimiento activo.
+
+**Stack:** Next.js · Tailwind · Stripe
+
+---
+
+## Experiencia
+
+- Grupo SIA — Desarrollador
+- Codisys — Técnico N2
+- NTT Data — IT
+- Atisa — IT
+
+---
+
+## Formación
+
+- Máster en Ciberseguridad — ESCIB
 - DAW — Desarrollo de Aplicaciones Web
 - DAM — Desarrollo de Aplicaciones Multiplataforma
 
-### Experiencia
+---
 
-- **Grupo SIA** — Desarrollador (Ciudad BBVA, Madrid)
-- **Codisys** — Técnico N2 de incidencias
-- **NTT Data** — Prácticas IT
-- **Atisa** — Prácticas IT
+## Contacto
 
-### Stack
-
-**Back-End** — Python, FastAPI, Node.js, PostgreSQL, Neon, Prisma  
-**Front-End** — React, Next.js, TypeScript, Tailwind, shadcn/ui  
-**IA y Automatización** — OpenAI, RAG, n8n, bots de voz, webhooks  
-**Infra** — Docker, Vercel, Cloud Run, CI/CD  
-**Seguridad** — Hacking ético, análisis forense, bastionado, normativa
-
-### Proyectos
-
-| Proyecto | Tipo | Stack |
-|---|---|---|
-| [SaaS de Fichajes](https://portfolio-adrisanchez.vercel.app/proyecto/fichajes) | Producto propio en producción con clientes de pago | Next.js, FastAPI, PostgreSQL |
-| [Tienda C.F.S. Femenino San Fernando](https://femeninosanfernando.vercel.app/) | Cliente real, entregado y en mantenimiento | Next.js, Tailwind |
-| Automatizaciones n8n + IA | Flujos a medida para clientes | n8n, OpenAI, APIs |
-| Bots de voz y RAG | Asistentes conversacionales (prototipos funcionales) | OpenAI, RAG |
-
-### Contacto
-
-[Portfolio](https://portfolio-adrisanchez.vercel.app) · [LinkedIn](https://www.linkedin.com/in/adrian-sanchez-guerrero) · adri.ia.dev@gmail.com
+Portfolio · LinkedIn · adri.ia.dev@gmail.com
