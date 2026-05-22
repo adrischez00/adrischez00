@@ -1,94 +1,59 @@
 # Adrián Sánchez Guerrero
 
-### Full-Stack Developer · SaaS · Automatización · IA
+Full-Stack Developer especializado en SaaS, automatización e IA aplicada a procesos reales de negocio.
 
-Madrid · Remoto · Freelance
+Construyo plataformas web, herramientas internas y sistemas automatizados para empresas, consultorías y operaciones digitales.
 
----
+## Actualmente
 
-Construyo herramientas reales para empresas: SaaS, automatizaciones, IA aplicada y plataformas internas.
-
-Actualmente trabajo en:
 - SaaS de fichajes en producción con clientes reales
 - Automatizaciones empresariales con n8n + IA
-- Bots de voz y sistemas RAG
-- Plataformas para digitalización de procesos
+- Plataformas internas y herramientas operativas
+- Sistemas RAG, integraciones y workflows backend
 
----
+## Stack principal
 
-## Stack
+**Backend**  
+Python · FastAPI · PostgreSQL · APIs REST
 
-```txt
-Back-End        Python · FastAPI · PostgreSQL · Node.js
-Front-End       React · Next.js · TypeScript · Tailwind
-IA & Automation OpenAI · RAG · n8n · APIs · Webhooks
-Infra           Docker · Vercel · Cloud Run · CI/CD
-Seguridad       Hardening · Forense · Hacking ético
-```
+**Frontend**  
+React · Next.js · TypeScript · TailwindCSS
 
----
+**Automatización & IA**  
+n8n · OpenAI · RAG · Webhooks · Integraciones
 
-# Proyectos Destacados
+**Infraestructura**  
+Docker · Vercel · CI/CD · Cloud Run
 
-## SaaS de Fichajes
+## Proyectos destacados
 
-Sistema multiempresa de control horario con:
-- exportaciones avanzadas
-- cumplimiento laboral
-- panel administrativo
-- automatizaciones
-- arquitectura moderna
+### SaaS de Fichajes
+Sistema multiempresa de control horario y gestión operativa con exportaciones avanzadas, trazabilidad y cumplimiento laboral.
 
-**Stack:** Next.js · FastAPI · PostgreSQL
+### Automatización IA + n8n
+Automatización de procesos empresariales mediante IA, APIs y workflows personalizados.
 
----
+### Plataforma ISO 9001
+Software orientado a auditorías, gestión documental y digitalización de procesos ISO.
 
-## Automatizaciones IA + n8n
-
-Automatización de procesos empresariales reales mediante:
-- IA
-- integraciones
-- APIs
-- webhooks
-- workflows personalizados
-
-**Stack:** n8n · OpenAI · APIs
-
----
-
-## Plataforma ISO 9001
-
-Software para auditorías y gestión documental orientado a consultoría ISO real.
-
-**Stack:** React · FastAPI · PostgreSQL
-
----
-
-## Tienda C.F.S. Femenino San Fernando
-
-E-commerce real con Stripe, responsive premium y mantenimiento activo.
-
-**Stack:** Next.js · Tailwind · Stripe
-
----
+### Sanfer Femenino
+Web moderna para club deportivo con Stripe, diseño responsive y gestión visual de patrocinadores.
 
 ## Experiencia
 
-- Grupo SIA — Desarrollador
-- Codisys — Técnico N2
-- NTT Data — IT
-- Atisa — IT
-
----
+- Grupo SIA
+- Codisys
+- NTT Data
+- Atisa
 
 ## Formación
 
 - Máster en Ciberseguridad — ESCIB
-- DAW — Desarrollo de Aplicaciones Web
-- DAM — Desarrollo de Aplicaciones Multiplataforma
-
----
+- DAW
+- DAM
 
 ## Contacto
 
-Portfolio · LinkedIn · adri.ia.dev@gmail.com
+Portfolio: portfolio-adrisanchez.vercel.app  
+LinkedIn: linkedin.com/in/adri-sanchez-guerrero  
+Email: adri.ia.dev@gmail.com
